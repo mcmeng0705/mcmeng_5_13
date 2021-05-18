@@ -3,6 +3,7 @@
     <router-view></router-view>
     <Order></Order>
     <FooterGuide></FooterGuide>
+    <router-link to="/Order">to Order</router-link>
 
 
   </div>

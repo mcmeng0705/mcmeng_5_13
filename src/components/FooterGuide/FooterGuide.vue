@@ -1,13 +1,21 @@
 <template>
   <div>
     FooterGuide
+    {{count}}
   </div>
 
 </template>
 
 <script>
+import {mapState} from "vuex";
+
 export default {
-  name: "FooterGuide"
+  name: "FooterGuide",
+  computed:mapState({
+    count:state => state.count,
+  })
+
+
 }
 </script>
 

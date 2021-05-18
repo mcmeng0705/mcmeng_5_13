@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "element-ui": "^2.15.1",
+    "mint-ui": "^2.2.13",
     "serve": "^11.3.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",

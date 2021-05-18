@@ -3,7 +3,6 @@
     <el-progress type="circle"
                  stroke-width="5"
                  stroke-linecap="round"
-
                  percentage="30" ></el-progress>
   </div>
 
